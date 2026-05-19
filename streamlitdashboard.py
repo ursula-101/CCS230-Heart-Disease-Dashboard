@@ -40,7 +40,7 @@ apply_styles()
 
 # ── Paths ──────────────────────────────────────────────────────────────────────
 DATA_PATH = Path(__file__).with_name("heart.csv")
-ICONS_PATH = Path(__file__).parent / "icons"
+ICONS_PATH = Path(__file__).parent / "Icons"
 
 
 # ── Helpers ────────────────────────────────────────────────────────────────────
