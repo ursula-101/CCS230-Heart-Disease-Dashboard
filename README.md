@@ -158,9 +158,9 @@ Dashboard launches at `http://localhost:8501`
 ## Implementation Recommendations
 
 ### Immediate Actions (Phase 1)
-✅ Integrate Random Forest model into EHR system for automated screening
-✅ Set flagging thresholds: Risk score ≥ 45% → Secondary cardiology review
-✅ Enable physician override with explanation logging
+- Integrate Random Forest model into EHR system for automated screening
+- Set flagging thresholds: Risk score ≥ 45% → Secondary cardiology review
+- Enable physician override with explanation logging
 
 ### Short-term (3-6 months)
 - Deploy SHAP or Feature Importance dashboards for clinician transparency
