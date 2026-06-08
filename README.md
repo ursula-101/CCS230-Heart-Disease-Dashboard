@@ -202,11 +202,6 @@ heart-disease-prediction/
 - Validation across demographic subgroups
 - Regular audits for performance disparities
 
-### Data Privacy
-- De-identified patient records
-- HIPAA-compliant EHR integration
-- Access controls and audit logging
-
 ---
 
 ## Team
